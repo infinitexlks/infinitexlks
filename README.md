@@ -7,6 +7,5 @@
 ![Infinite's GitHub stats](https://github-readme-stats.vercel.app/api?username=infinitexlks&show_icons=true&theme=ambient_gradient)
 ### Stuff and things
 - <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Symbols/New%20Button.png?raw=true" alt="New Button.png" width="20" height="20"/> im lowk dookie at coding
-- <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Activities/Video%20Game.png?raw=true" alt="Video Game.png" alt="Game" width="20" height="20" /> 
  <img src="https://github.com/eternalxlks/eternalxlks/blob/main/dancing-cat-dance.gif?raw=true" alt="dancing-cat-dance.gif"/>
  <img src="https://raw.githubusercontent.com/infinitexlks/infinitexlks/7c1316ee8e0bc373049ad4d82fb975e50d0594de/movingfinisher.svg"/>
